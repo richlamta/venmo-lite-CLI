@@ -1,0 +1,11 @@
+2023-07-08T11:55:21.4176502 405:
+2023-07-08T11:58:04.9528917 500 : [{"timestamp":"2023-07-08T18:58:04.940+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer(transfer_type_id, transfer_status_id, account_... (686 bytes)]
+2023-07-08T11:58:05.0012497 405:
+2023-07-08T16:55:49.469568 401 : [no body]
+2023-07-08T16:56:02.1418613 401 : [no body]
+2023-07-08T17:00:23.7980085 401 : [no body]
+2023-07-08T17:01:14.3751817 401 : [no body]
+2023-07-08T17:02:15.0567889 401 : [no body]
+2023-07-08T17:08:17.7051665 401 : [no body]
+2023-07-08T17:09:02.903524 401 : [no body]
+2023-07-08T17:09:53.4748366 401 : [no body]
